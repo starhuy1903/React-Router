@@ -9,7 +9,6 @@ const Welcome = () => {
                 <p>Welcome, new user!</p>
             </Route>
         </section>
-
     );
 };
 
